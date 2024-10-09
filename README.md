@@ -3,14 +3,67 @@
 <!--
 **CClifton-63/CClifton-63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there, I'm Chad! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=IT+Enthusiast+%26+Student;Always+learning+new+technologies;Passionate+about+web+development;Open+source+contributor" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
+I'm an IT enthusiast and student, always eager to learn and explore new technologies. My journey in the world of programming and web development has been exciting, and I'm constantly looking for new challenges to tackle!
+
+## 🛠️ Skills
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CClifton-63&show_icons=true&theme=radical" alt="Chad's GitHub stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CClifton-63&theme=dark" alt="Chad's GitHub streak" />
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/CClifton-63/My-Portfolio-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CClifton-63&repo=My-Portfolio-Project&theme=dark" />
+  </a>
+  <a href="https://github.com/CClifton-63/ICTWEB431">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CClifton-63&repo=ICTWEB431&theme=dark" />
+  </a>
+</div>
+
+## 🌐 Connect with me
+
+<div align="center">
+  <a href="https://linkedin.com/in/chadc1137" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://cclifton-63.github.io/My-Portfolio-Project/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat-square&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CClifton-63&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/CClifton-63/CClifton-63/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
