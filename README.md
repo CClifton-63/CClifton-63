@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**CClifton-63/CClifton-63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there, I'm Chad! 👋
 
 <div align="center">
