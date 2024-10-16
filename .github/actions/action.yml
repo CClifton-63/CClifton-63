@@ -1,19 +1,23 @@
-name: 'Generate Snake Animation'
-description: 'Generate a snake animation for GitHub contributions'
+name: 'Push to GitHub Pages'
+description: 'Push generated files to GitHub Pages'
 inputs:
-  github_user_name:
-    description: 'GitHub username'
+  target_branch:
+    description: 'Target branch'
+    required: true
+  build_dir:
+    description: 'Build directory'
+    required: true
+  commit_message:
+    description: 'Commit message'
     required: true
 runs:
   using: 'composite'
   steps:
-    - name: Generate Snake
-      uses: Platane/snk@v3
+    - name: Push to GitHub Pages
+      uses: crazy-max/ghaction-github-pages@v3.1.0
       with:
-        github_user_name: ${{ inputs.github_user_name }}
-        outputs: |
-          dist/github-contribution-grid-snake.gif
-          dist/github-contribution-grid-snake.svg
-          dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        target_branch: ${{ inputs.target_branch }}
+        build_dir: ${{ inputs.build_dir }}
+        commit_message: ${{ inputs.commit_message }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
