@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm an IT enthusiast and student, always eager to learn and explore new technologies. My journey in the world of programming and web development has been exciting, and I'm constantly looking for new challenges to tackle!
+In addition to my current Certificate III ICT studies, I am also exploring the world of coding with Python, HTML, and CSS programming languages and applying what I learn to personal projects in my free time and expanding on my learning experiences.
 
 ## 🛠️ Skills
 
@@ -55,8 +55,4 @@ I'm an IT enthusiast and student, always eager to learn and explore new technolo
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CClifton-63&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/CClifton-63/CClifton-63/output/github-contribution-grid-snake.svg" />
 </div>
