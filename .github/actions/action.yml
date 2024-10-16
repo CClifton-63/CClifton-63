@@ -1,0 +1,19 @@
+name: 'Generate Snake Animation'
+description: 'Generate a snake animation for GitHub contributions'
+inputs:
+  github_user_name:
+    description: 'GitHub username'
+    required: true
+runs:
+  using: 'composite'
+  steps:
+    - name: Generate Snake
+      uses: Platane/snk@v3
+      with:
+        github_user_name: ${{ inputs.github_user_name }}
+        outputs: |
+          dist/github-contribution-grid-snake.gif
+          dist/github-contribution-grid-snake.svg
+          dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
