@@ -16,9 +16,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # Replace with a verified action for generating the snake animation
       - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        id: snake-gif
+        uses: <verified-action-for-snake-animation>
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -31,8 +31,9 @@ jobs:
       - name: Show Build Status
         run: git status
 
+      # Replace with a verified action for pushing to GitHub Pages
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: <verified-action-for-github-pages>
         with:
           target_branch: output
           build_dir: dist
