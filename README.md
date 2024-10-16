@@ -57,8 +57,6 @@ I'm an IT enthusiast and student, always eager to learn and explore new technolo
   <img src="https://komarev.com/ghpvc/?username=CClifton-63&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
----
-
 <div align="center">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/CClifton-63/CClifton-63/output/github-contribution-grid-snake.svg" />
 </div>
