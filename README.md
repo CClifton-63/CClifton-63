@@ -1,7 +1,7 @@
 # Hi there, I'm Chad! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=IT+Enthusiast+%26+Student;Always+learning+new+technologies;exploring+the+world+of+web+development;Open+source+contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=IT+Enthusiast+%26+Student;Always+learning+new+technologies;Diving+into+the+world+of+web+design;Open+source+contributor" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
