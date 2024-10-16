@@ -60,5 +60,5 @@ I'm an IT enthusiast and student, always eager to learn and explore new technolo
 ---
 
 <div align="center">
-  <img src="https://github.com/CClifton-63/CClifton-63/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/CClifton-63/CClifton-63/output/github-contribution-grid-snake.svg" />
 </div>
